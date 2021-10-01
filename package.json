@@ -1,5 +1,5 @@
 {
-  "name": "final1",
+  "name": "dog-js-game",
   "version": "1.0.0",
   "dependencies": {
     "p5": "^1.4.0",
@@ -7,6 +7,6 @@
   },
    "scripts": {
     "run": "serve public",
-    "start": "node public"
+    "start": "node public/index.html"
   }
 }
